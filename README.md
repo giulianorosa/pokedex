@@ -14,8 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 # Instale as dependências
-$ yarn
+$ yarn install
 
 # Inicie a execução do projeto
-$ yarn start
+$ yarn run start
 ```
